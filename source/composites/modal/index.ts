@@ -29,5 +29,4 @@ export function KatonModal(
         .position(extended.position)
         .type(extended.type)
         .commit
-Ò
 }
